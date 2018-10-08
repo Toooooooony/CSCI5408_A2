@@ -1,4 +1,3 @@
-from textblob import TextBlob
 import csv
 import re
 import json
